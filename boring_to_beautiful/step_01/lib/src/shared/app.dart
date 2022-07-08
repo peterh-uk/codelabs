@@ -42,6 +42,8 @@ class _MyAppState extends State<MyApp> {
                     // Add theme
                     // Add dark theme
                     // Add theme mode
+                    routeInformationProvider:
+                        appRouter.routeInformationProvider,
                     routeInformationParser: appRouter.routeInformationParser,
                     routerDelegate: appRouter.routerDelegate,
                   );
