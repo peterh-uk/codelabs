@@ -16,3 +16,7 @@ package-lock.json
 Podfile.lock
 pubspec.lock
 yarn.lock
+boring_to_beautiful/step_01/macos/Flutter/GeneratedPluginRegistrant.swift
+boring_to_beautiful/step_01/windows/flutter/generated_plugin_registrant.cc
+boring_to_beautiful/step_01/windows/flutter/generated_plugin_registrant.h
+boring_to_beautiful/step_01/windows/flutter/generated_plugins.cmake
